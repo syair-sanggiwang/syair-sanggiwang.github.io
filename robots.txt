@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://syair-sanggiwang.github.io/sitemap.xml
